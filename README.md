@@ -51,7 +51,7 @@ Here are some of the projects I've worked on:
 - **Frameworks, Tools & Technologies:** HTML, CSS, JavaScript, Node.js, React, Jupyter Notebook, Visual Studio Code, SQL, MongoDB
 - **Soft Skills:** Communication Skills, Time Management Skills, Problem-Solving Skills, Work Ethic & Professionalism
   
-## Currently Learning
+## 📚 Currently Learning
 
 - Blockchain Technology
 - Diving deeper into Advanced Full stack Development Concepts.
